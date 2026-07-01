@@ -31,14 +31,14 @@
 
 
 
-## 🐍 Contribution Snake ![snake gif](https://github.com/ShreyashMoundekar/ShreyashMoundekar/blob/output/github-snake-dark.svg) ![Visitor Count](https://komarev.com/ghpvc/?username=shreyash28m&color=green&style=flat-square)
+## 🐍 Contribution Snake ![snake gif](https://github.com/ShreyashMoundekar11/ShreyashMoundekar11/blob/output/github-snake-dark.svg) ![Visitor Count](https://komarev.com/ghpvc/?username=shreyash28m&color=green&style=flat-square)
 
 ---
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreyashMoundekar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyashMoundekar&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreyashMoundekar11&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyashMoundekar11&theme=tokyonight" />
 </p>
 
 ---
@@ -79,10 +79,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/shreyash-moundekar-devops" target="blank">LinkedIn</a> |
   <!--a href="https://naukri.com/your-profile" target="blank">Naukri</a!--> |
-  <a href="mailto:shreyashmoundekar28@gmail.com"> Email Me</a>
+  <a href="mailto:ShreyashMoundekar1128@gmail.com"> Email Me</a>
 </p>
 
 
 ---
 
-⭐️ From [Shreyash](https://github.com/ShreyashMoundekar)
+⭐️ From [Shreyash](https://github.com/ShreyashMoundekar11)
